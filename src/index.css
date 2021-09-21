@@ -710,12 +710,14 @@ button:focus {
     display: block;
   }
 
-  .nav-menu {
+  .nav-menu,
+  #scroll-view,
+  #download-resume {
     display: none;
   }
 
-  #download-resume {
-    display: none;
+  .timeline-logo {
+    position: relative;
   }
 }
 
@@ -727,6 +729,7 @@ button:focus {
 
   .timeline-box::after {
     left: -9.3% !important;
+    position: absolute !important;
   }
 
   #timeline-divider {
@@ -750,5 +753,17 @@ button:focus {
   #contact-form-container {
     width: 80%;
     margin: 10%;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .timeline-box {
+    width: 80%;
+  }
+  .timeline-box::after {
+    position: relative;
+  }
+  #timeline-divider {
+    top: 10%;
+    left: 2%;
   }
 }
