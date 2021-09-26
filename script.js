@@ -92,6 +92,7 @@ document
 // Scroll Progress Bar
 
 var scrolledBar = document.getElementById("scrolled");
+scrolledBar.style.width = "0%";
 
 // This function will return the maximum of the following
 function getDocHeight() {
