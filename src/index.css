@@ -528,6 +528,20 @@ textarea {
   color: #13386fe0;
 }
 
+#user-name {
+  color: #e8af7ed1;
+}
+
+#contact-form-message {
+  color: #d8800f;
+  padding: 0 25px;
+  text-align: center;
+  background: radial-gradient(#ad7568c7, #0000001c);
+  word-spacing: 5px;
+  font-family: sans-serif;
+  border-radius: 25px;
+}
+
 #contact .social-icons li a i {
   font-size: 1.2rem;
 }
