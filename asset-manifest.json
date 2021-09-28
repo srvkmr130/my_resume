@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my_resume/static/css/main.75cba93f.chunk.css",
-    "main.js": "/my_resume/static/js/main.aea0cf91.chunk.js",
-    "main.js.map": "/my_resume/static/js/main.aea0cf91.chunk.js.map",
-    "runtime-main.js": "/my_resume/static/js/runtime-main.b2eea38e.js",
-    "runtime-main.js.map": "/my_resume/static/js/runtime-main.b2eea38e.js.map",
-    "static/js/2.ff733d04.chunk.js": "/my_resume/static/js/2.ff733d04.chunk.js",
-    "static/js/2.ff733d04.chunk.js.map": "/my_resume/static/js/2.ff733d04.chunk.js.map",
-    "static/js/3.4376ca85.chunk.js": "/my_resume/static/js/3.4376ca85.chunk.js",
-    "static/js/3.4376ca85.chunk.js.map": "/my_resume/static/js/3.4376ca85.chunk.js.map",
+    "main.css": "/my_resume/static/css/main.7788e470.chunk.css",
+    "main.js": "/my_resume/static/js/main.1bbef246.chunk.js",
+    "main.js.map": "/my_resume/static/js/main.1bbef246.chunk.js.map",
+    "runtime-main.js": "/my_resume/static/js/runtime-main.093f1a89.js",
+    "runtime-main.js.map": "/my_resume/static/js/runtime-main.093f1a89.js.map",
+    "static/js/2.9c8b0d6f.chunk.js": "/my_resume/static/js/2.9c8b0d6f.chunk.js",
+    "static/js/2.9c8b0d6f.chunk.js.map": "/my_resume/static/js/2.9c8b0d6f.chunk.js.map",
+    "static/js/3.89caea5d.chunk.js": "/my_resume/static/js/3.89caea5d.chunk.js",
+    "static/js/3.89caea5d.chunk.js.map": "/my_resume/static/js/3.89caea5d.chunk.js.map",
     "index.html": "/my_resume/index.html",
-    "static/css/main.75cba93f.chunk.css.map": "/my_resume/static/css/main.75cba93f.chunk.css.map",
-    "static/js/2.ff733d04.chunk.js.LICENSE.txt": "/my_resume/static/js/2.ff733d04.chunk.js.LICENSE.txt",
+    "static/css/main.7788e470.chunk.css.map": "/my_resume/static/css/main.7788e470.chunk.css.map",
+    "static/js/2.9c8b0d6f.chunk.js.LICENSE.txt": "/my_resume/static/js/2.9c8b0d6f.chunk.js.LICENSE.txt",
     "static/media/Saurabh_2021.a70274bb.pdf": "/my_resume/static/media/Saurabh_2021.a70274bb.pdf",
     "static/media/index.css": "/my_resume/static/media/header-logo.dd4980b8.png",
     "static/media/iPod.f306b321.jpeg": "/my_resume/static/media/iPod.f306b321.jpeg",
@@ -23,9 +23,9 @@
     "static/media/virtualAssistant.6bf389d7.jpg": "/my_resume/static/media/virtualAssistant.6bf389d7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2eea38e.js",
-    "static/js/2.ff733d04.chunk.js",
-    "static/css/main.75cba93f.chunk.css",
-    "static/js/main.aea0cf91.chunk.js"
+    "static/js/runtime-main.093f1a89.js",
+    "static/js/2.9c8b0d6f.chunk.js",
+    "static/css/main.7788e470.chunk.css",
+    "static/js/main.1bbef246.chunk.js"
   ]
 }
