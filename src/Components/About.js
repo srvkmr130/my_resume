@@ -1,14 +1,10 @@
 import React, { Component } from "react";
-import profile from "../resources/profile-img.jpg";
 
 class About extends Component {
   render() {
     return (
       <section id="about">
-        <div id="my-image">
-          <img src={profile} />
-        </div>
-
+        <div id="my-image" class="headshot headshot-2"></div>
         <div id="about-para">
           <p>
             A particle that flows along with the wind of trending technologies.

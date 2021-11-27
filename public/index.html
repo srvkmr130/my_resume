@@ -44,6 +44,16 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <script
+      SameSite="None; Secure"
+      src="https://static.landbot.io/landbot-3/landbot-3.0.0.js"
+    ></script>
+    <script>
+      var myLandbot = new Landbot.Livechat({
+        configUrl:
+          "https://chats.landbot.io/v3/H-1006359-65NUH9ATDFKPJOOB/index.json",
+      });
+    </script>
   </body>
   <script src="script.js"></script>
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
