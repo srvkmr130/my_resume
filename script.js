@@ -120,7 +120,7 @@ function setScrolled() {
   );
 
   scrolledBar.style.width = scrolled + "%";
-  scrolledBar.innerHTML = scrolled + "%";
+  if (scrolled > 0 && scrolled <= 100) scrolledBar.innerHTML = scrolled + "%";
 }
 
 window.addEventListener("scroll", setScrolled);
