@@ -93,6 +93,7 @@ document
 
 var scrolledBar = document.getElementById("scrolled");
 scrolledBar.style.width = "0%";
+scrolledBar.innerHTML = "0%";
 
 // This function will return the maximum of the following
 function getDocHeight() {
@@ -119,6 +120,7 @@ function setScrolled() {
   );
 
   scrolledBar.style.width = scrolled + "%";
+  scrolledBar.innerHTML = scrolled + "%";
 }
 
 window.addEventListener("scroll", setScrolled);
