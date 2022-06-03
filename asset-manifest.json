@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my_resume/static/css/main.5458b2a7.chunk.css",
-    "main.js": "/my_resume/static/js/main.ca55f5c9.chunk.js",
-    "main.js.map": "/my_resume/static/js/main.ca55f5c9.chunk.js.map",
+    "main.js": "/my_resume/static/js/main.04af0fc7.chunk.js",
+    "main.js.map": "/my_resume/static/js/main.04af0fc7.chunk.js.map",
     "runtime-main.js": "/my_resume/static/js/runtime-main.093f1a89.js",
     "runtime-main.js.map": "/my_resume/static/js/runtime-main.093f1a89.js.map",
     "static/js/2.9c8b0d6f.chunk.js": "/my_resume/static/js/2.9c8b0d6f.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/my_resume/index.html",
     "static/css/main.5458b2a7.chunk.css.map": "/my_resume/static/css/main.5458b2a7.chunk.css.map",
     "static/js/2.9c8b0d6f.chunk.js.LICENSE.txt": "/my_resume/static/js/2.9c8b0d6f.chunk.js.LICENSE.txt",
-    "static/media/Saurabh_2022.b38866ec.pdf": "/my_resume/static/media/Saurabh_2022.b38866ec.pdf",
+    "static/media/Saurabh_2021.a70274bb.pdf": "/my_resume/static/media/Saurabh_2021.a70274bb.pdf",
     "static/media/geekyantsLogo.ab8b4ebf.png": "/my_resume/static/media/geekyantsLogo.ab8b4ebf.png",
     "static/media/index.css": "/my_resume/static/media/profile.2b44db66.jpg",
     "static/media/iPod.f306b321.jpeg": "/my_resume/static/media/iPod.f306b321.jpeg",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.093f1a89.js",
     "static/js/2.9c8b0d6f.chunk.js",
     "static/css/main.5458b2a7.chunk.css",
-    "static/js/main.ca55f5c9.chunk.js"
+    "static/js/main.04af0fc7.chunk.js"
   ]
 }
